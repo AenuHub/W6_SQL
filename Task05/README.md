@@ -1,0 +1,3 @@
+- List the 5 longest (length) films in the film table whose title ends with the character ‘n’.
+- Sort the second 5 films (6,7,8,9,10) in the film table with the shortest (length) film name (title) ending with the character ‘n’.
+- Sort the first 4 data in descending order according to the last_name column in the customer table, provided that store_id is 1.
