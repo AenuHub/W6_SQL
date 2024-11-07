@@ -1,0 +1,4 @@
+- Sort all data for first_name columns in actor and customer tables.
+- Sort the intersecting data for the first_name columns in the actor and customer tables.
+- For the first_name columns in the actor and customer tables, sort the data in the first table but not in the second table.
+- Do the first 3 queries for repeating data.
