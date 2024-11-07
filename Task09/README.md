@@ -1,0 +1,3 @@
+- Write the INNER JOIN query that we can see the city and country names in the city table and country table together.
+- Write the INNER JOIN query that we can see the first_name and last_name names in the customer table together with the payment_id in the payment table with the customer table.
+- Write the INNER JOIN query between the customer table and the rental_id in the rental table and the first_name and last_name names in the customer table.
