@@ -1,0 +1,4 @@
+- create a table in your test database named employee with column information id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100).
+- add 50 data to the employee table we created using the ‘Mockaroo’ service.
+- do 5 UPDATE operations that will update other columns according to each of the columns.
+- do 5 DELETE operations that will delete the relevant row according to each of the columns.
