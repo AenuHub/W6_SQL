@@ -1,0 +1,4 @@
+- How many films have a length greater than the average film length?
+- How many films in the film table have the highest rental_rate?
+- List the films in the film table with the lowest rental_rate and the lowest replacement_cost.
+- List the customers who made the most purchases in the payment table.
